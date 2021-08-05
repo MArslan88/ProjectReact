@@ -4,9 +4,8 @@ import Tweet from './Tweet';
 function App(){
 
     return(
-    <div>
+    <div className="app">
       <h1>This is the app component</h1>
-      <Tweet />
       <Tweet />
     </div>
   );
